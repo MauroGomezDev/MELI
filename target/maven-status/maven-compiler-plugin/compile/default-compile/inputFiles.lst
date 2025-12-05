@@ -1,0 +1,11 @@
+C:\MELI\evaluacion\src\main\java\com\meli\rest\evaluacion\EvaluacionApplication.java
+C:\MELI\evaluacion\src\main\java\com\meli\rest\evaluacion\exceptions\ResponseException.java
+C:\MELI\evaluacion\src\main\java\com\meli\rest\evaluacion\model\Producto.java
+C:\MELI\evaluacion\src\main\java\com\meli\rest\evaluacion\repository\ProductoRepository.java
+C:\MELI\evaluacion\src\main\java\com\meli\rest\evaluacion\service\ProductoService.java
+C:\MELI\evaluacion\src\main\java\com\meli\rest\evaluacion\controller\ProductosController.java
+C:\MELI\evaluacion\src\main\java\com\meli\rest\evaluacion\exceptions\InvalidDataException.java
+C:\MELI\evaluacion\src\main\java\com\meli\rest\evaluacion\exceptions\GlobalExceptionHandler.java
+C:\MELI\evaluacion\src\main\java\com\meli\rest\evaluacion\validation\ProductoValidator.java
+C:\MELI\evaluacion\src\main\java\com\meli\rest\evaluacion\service\ProductoServiceImpl.java
+C:\MELI\evaluacion\src\main\java\com\meli\rest\evaluacion\util\Utils.java

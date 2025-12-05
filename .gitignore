@@ -1,0 +1,26 @@
+# IDEs y configuración
+.idea/             # Directorio de IntelliJ IDEA
+*.iml              # Archivos de módulo de IntelliJ
+
+# Maven
+/target/           # Carpeta de salida de la compilación
+pom.xml.tag        # Archivos temporales de Maven
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+build/             # Otro posible directorio de build
+
+# Java
+*.class            # Archivos binarios compilados
+*.jar              # Archivos JAR
+*.war              # Archivos WAR
+*.zip
+
+# Logs
+*.log
+log/
+temp/
+
+# Sistema Operativo
+.DS_Store          # macOS
+Thumbs.db          # Windows
