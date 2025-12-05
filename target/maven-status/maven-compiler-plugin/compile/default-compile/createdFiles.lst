@@ -1,10 +1,10 @@
 com\meli\rest\evaluacion\model\Producto.class
+com\meli\rest\evaluacion\util\Utils.class
+com\meli\rest\evaluacion\controller\ProductosController.class
 com\meli\rest\evaluacion\repository\ProductoRepository.class
 com\meli\rest\evaluacion\validation\ProductoValidator.class
 com\meli\rest\evaluacion\service\ProductoService.class
 com\meli\rest\evaluacion\exceptions\GlobalExceptionHandler.class
-com\meli\rest\evaluacion\util\Utils.class
-com\meli\rest\evaluacion\controller\ProductosController.class
 com\meli\rest\evaluacion\EvaluacionApplication.class
 com\meli\rest\evaluacion\exceptions\InvalidDataException.class
 com\meli\rest\evaluacion\exceptions\ResponseException.class
