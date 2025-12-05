@@ -1,6 +1,9 @@
 # Nombre del Proyecto: Evaluación Meli / Mauricio Gomez Farias
 
 Este microservicio fue desarrollado con Spring Boot y Maven. Su objetivo principal es servir como evaluación técnica para el personal de MELI, en el marco de una postulación a una vacante de desarrollador backend. 
+La API desarrollada solo implemento 2 metodos:
+   POST Para la creacion deproductos
+   GET Para la obtencion de productos por ID (requerimiento a evaluar)
 
 ---
 
@@ -13,6 +16,8 @@ El proyecto fue construido con las siguientes herramientas y tecnologías clave:
 * **Herramienta de Build:** Apache Maven
 * **Testing:** JUnit 5, Mockito
 * **Control de Versiones:** Git
+* **Logger:** SLF4J
+* **Pruebas endpoint** Postman  
 
 ---
 
@@ -64,6 +69,7 @@ GET  :/api/evaluacion	(Obtiene la lista completa de productos).
 POST :/api/evaluacion	(Crea un nuevo producto).
 GET	 :/api/productos/{id}	(Obtiene un producto por ID).
 
+🧪 Pruebas y Cobertura
 ### A. Sección: 🧪 Pruebas y Verificación
 La aplicación incluye pruebas unitarias y de integración para asegurar la robustez de la lógica de negocio y la capa de servicio.
 ### Ejecución de Pruebas
@@ -166,5 +172,5 @@ Niveles de Uso: Los registros se manejan con niveles estándar, priorizando:
 * DEBUG: Para rastrear valores de datos y pasos internos de los servicios.
 * WARN/ERROR: Para registrar fallos de validación (WARN) o excepciones críticas (ERROR).
 
-🧪 Pruebas y Cobertura
+
 
